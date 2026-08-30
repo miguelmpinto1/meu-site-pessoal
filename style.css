@@ -1,7 +1,41 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Helvetica, sans-serif;
     background-color: #f4f4f9;
     color: #333;
     text-align: center;
     padding-top: 50px;
+}
+
+h1 {
+    margin-top: 50px;
+}
+
+p {
+    margin-bottom: 100px;
+}
+
+img {
+    height: auto;
+    width: 70px;
+    margin-top: 350px;
+    margin-right: 35px;
+}
+
+.Textos {
+    color: #000000;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 300px;
+    gap: 100px;
+}
+
+.Textos a {
+    color: #000000;
+    text-decoration: none;
+}
+.Textos a:hover {
+    text-decoration: underline;
 }
