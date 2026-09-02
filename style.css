@@ -39,3 +39,8 @@ img {
 .Textos a:hover {
     text-decoration: underline;
 }
+
+.Texto-historico a {
+    font-family: Helvetica, sans-serif;
+    color: #000000;
+}
